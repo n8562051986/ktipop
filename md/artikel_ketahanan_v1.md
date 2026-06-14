@@ -18,6 +18,31 @@ Tulisan ini bertujuan untuk menawarkan gagasan strategis tentang ketahanan panga
 
 ## LANDASAN TEORI
 
+### Ahsanul Qashash: Mengapa Kisah Nabi Yusuf?
+
+Allah Subhanahu wa Ta'ala berfirman dalam QS Yusuf ayat 3:
+
+*Arab:*
+نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ بِمَا أَوْحَيْنَا إِلَيْكَ هَٰذَا الْقُرْآنَ وَإِن كُنتَ مِن قَبْلِهِ لَمِنَ الْغَافِلِينَ
+
+*Latin:* Naḥnu naquṣṣu 'alaika aḥsanal-qaṣaṣi bimā auḥainā ilaika hāżal-qur'āna wa in kunta min qablihī laminal-gāfilīn
+
+*Artinya:* "Kami menceritakan kepadamu (Nabi Muhammad) kisah yang paling baik (ahsanul qashash) dengan mewahyukan Al-Qur'an ini kepadamu. Sesungguhnya engkau sebelum itu termasuk orang-orang yang tidak mengetahui."
+
+Allah secara khusus menyebut kisah Nabi Yusuf sebagai *Ahsanul Qashash* (أحسن القصص) — sebaik-baik kisah. Predikat ini disematkan langsung dalam QS Yusuf ayat 3, menunjukkan bahwa di antara seluruh kisah dalam Al-Qur'an, kisah Nabi Yusuf mengandung pelajaran yang paling lengkap dan komprehensif. Setidaknya terdapat lima dimensi pelajaran utama yang terkandung di dalamnya:
+
+1. **Manajemen Krisis:** Kisah ini mengajarkan bagaimana mengidentifikasi ancaman sebelum terjadi, merencanakan mitigasi jangka panjang, dan menjalankan strategi secara disiplin. Nabi Yusuf mampu membaca tanda-tanda krisis 14 tahun sebelum datangnya masa paceklik.
+
+2. **Ketahanan Pangan:** Inti dari kisah ini adalah sistem manajemen pangan yang brilian — mulai dari produksi massal, penyimpanan strategis, efisiensi konsumsi, hingga distribusi yang adil. Tidak ada kisah lain dalam Al-Qur'an yang memberikan detail teknis manajemen pangan sedetail ini.
+
+3. **Integritas:** Sepanjang perjalanan hidupnya — dari godaan di istana Al-Aziz hingga memangku amanah sebagai bendahara negara — Nabi Yusuf menunjukkan integritas yang tak tergoyahkan. Ini mengajarkan bahwa keberhasilan manajemen pangan tidak bisa dipisahkan dari moralitas dan amanah para pengelolanya.
+
+4. **Prioritas (*Awlawiyyat*):** Setiap langkah Nabi Yusuf merefleksikan kemampuan menetapkan prioritas. Beliau tidak mencampuradukkan urusan, melainkan mengurutkannya berdasarkan urgensi dan dampak. Inilah inti dari *Fiqh al-Awlawiyyat* yang menjadi kerangka analisis utama artikel ini.
+
+5. **Kepemimpinan:** Nabi Yusuf memimpin dari bawah ke atas — dari seorang tahanan hingga menjadi penguasa ekonomi Mesir. Kepemimpinannya yang visioner, amanah, dan berorientasi pada kemaslahatan rakyat menjadi teladan bagi para pemimpin di bidang pangan dan ekonomi.
+
+Kelima dimensi ini menjadikan kisah Nabi Yusuf bukan sekadar narasi sejarah, melainkan panduan praktis (*operational framework*) yang relevan untuk diterapkan dalam kebijakan ketahanan pangan nasional saat ini.
+
 ### Kisah Nabi Yusuf dan Strategi Pangan Tujuh Tahun
 
 Ayat utama yang menjadi landasan kajian ini adalah firman Allah dalam Surat Yusuf ayat 46 hingga 48. Berikut adalah teks Arab, Latin, dan terjemahannya:

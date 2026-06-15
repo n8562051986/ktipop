@@ -4,17 +4,11 @@
 
 ## PENDAHULUAN
 
-Indonesia dikenal sebagai negara agraris dengan kekayaan alam yang melimpah. Secara geografis, negeri ini berada di wilayah tropis dengan tanah yang subur dan curah hujan yang memadai. Ironisnya, predikat agraris ini belum berbanding lurus dengan kemampuan swasembada pangan. Data Badan Pusat Statistik menunjukkan bahwa pada tahun 2025 Indonesia masih mengimpor beras sebanyak 4,2 juta ton (BPS 2025) untuk memenuhi kebutuhan konsumsi dalam negeri. Angka ini menjadi ironi di tengah luasnya lahan pertanian dan besarnya jumlah penduduk yang menggantungkan hidup pada sektor agraris.
+Indonesia adalah negara agraris yang masih bergulat dengan masalah ketahanan pangan. Pada 2025, Indonesia masih mengimpor beras 4,2 juta ton (BPS, 2025), sementara prevalensi stunting berada di angka 18,2 persen (SSGI, 2026). Lebih dari separuh petani Indonesia termasuk kategori gurem — mengelola lahan kurang dari 0,5 hektare. Ketergantungan pada impor gandum mencapai 11,8 juta ton per tahun. Di tengah tantangan ini, program strategis seperti Food Estate 2.0, Cetak Sawah 3 Juta Hektare, dan Makan Siang Gratis untuk 18,7 juta siswa terus digalakkan.
 
-Lebih memprihatinkan lagi, prevalensi stunting di Indonesia masih berada di angka 18,2 persen pada tahun 2025 (SSGI, Kemenkes, Maret 2026). Angka ini menunjukkan bahwa lebih dari satu per lima anak Indonesia mengalami gangguan pertumbuhan akibat kekurangan gizi kronis. Di sisi lain, sebanyak 56 persen petani Indonesia termasuk dalam kategori petani gurem, yaitu mereka yang mengelola lahan kurang dari 0,5 hektare. Kondisi ini menggambarkan bahwa sebagian besar petani kita hidup dalam tekanan ekonomi yang berat, sulit mencapai skala ekonomi yang efisien, dan rentan terhadap gejolak harga maupun perubahan iklim.
+Persoalan ketahanan pangan bukanlah isu baru. Dalam tradisi intelektual Islam, terdapat khazanah manajemen pangan yang sangat kaya, salah satunya dalam kisah Nabi Yusuf Alaihissalam. Kisah tentang mimpi Raja Mesir yang ditakwilkan sebagai pertanda tujuh tahun subur dan tujuh tahun paceklik merupakan narasi manajemen pangan klasik yang brilian.
 
-Tantangan lain yang tidak kalah serius adalah ketergantungan Indonesia pada impor gandum yang mencapai 11,8 juta ton per tahun. Di tengah berbagai tantangan tersebut, pemerintah terus menggalakkan program-program strategis seperti Food Estate 2.0 dan Cetak Sawah 3 Juta Hektare sebagai upaya memperkuat produksi pangan dalam negeri. Sementara itu, program Makan Siang Gratis telah menjangkau 18,7 juta siswa per Juni 2026 dengan anggaran Rp 115 triliun, menjadikannya salah satu program distribusi pangan terbesar dalam sejarah Indonesia.
-
-Persoalan ketahanan pangan bukanlah isu baru dalam peradaban manusia. Sejak ribuan tahun lalu, umat manusia telah bergulat dengan tantangan bagaimana memenuhi kebutuhan pangan secara berkelanjutan. Dalam tradisi intelektual Islam, terdapat khazanah yang sangat kaya tentang manajemen pangan, salah satunya termaktub dalam kisah Nabi Yusuf Alaihissalam. Kisah tentang mimpi Raja Mesir yang ditakwilkan oleh Nabi Yusuf sebagai pertanda akan datangnya tujuh tahun masa subur dan tujuh tahun masa paceklik merupakan narasi manajemen pangan klasik yang sangat brilian.
-
-Sayangnya, sebagian besar diskursus tentang ketahanan pangan di Indonesia masih didominasi oleh pendekatan teknis-ekonomi yang cenderung sekuler. Kajian terhadap kisah Nabi Yusuf sebagai model strategi pangan masih jarang dikaitkan dengan kerangka fikih prioritas (*Fiqh al-Awlawiyyat*). Padahal, jembatan antara nilai-nilai Islam dan kebijakan pangan nasional justru dapat memberikan perspektif baru yang lebih komprehensif dan berorientasi pada kemaslahatan umat.
-
-Tulisan ini bertujuan untuk menawarkan gagasan strategis tentang ketahanan pangan nasional dengan merujuk pada dua kerangka utama: pertama, kisah Nabi Yusuf dalam QS Yusuf ayat 46--48 sebagai model manajemen pangan; dan kedua, *Fiqh al-Awlawiyyat* atau fikih prioritas sebagai lensa untuk menentukan skala urgensi dalam kebijakan pangan. Dengan pendekatan reflektif-referensial, tulisan ini diharapkan dapat memberikan kontribusi bagi pengembangan kebijakan pangan yang tidak hanya kuat secara teknis, tetapi juga kokoh secara nilai.
+Sayangnya, diskursus ketahanan pangan di Indonesia masih didominasi pendekatan teknis-ekonomi yang cenderung sekuler. Kajian kisah Nabi Yusuf sebagai model strategi pangan jarang dikaitkan dengan kerangka fikih prioritas (*Fiqh al-Awlawiyyat*). Tulisan ini bertujuan menawarkan gagasan strategis tentang ketahanan pangan nasional dengan merujuk pada kisah Nabi Yusuf dalam QS Yusuf ayat 46--48 dan *Fiqh al-Awlawiyyat* sebagai lensa penentuan skala prioritas.
 
 ---
 
@@ -27,34 +21,18 @@ Allah Subhanahu wa Ta'ala berfirman dalam QS Yusuf ayat 3:
 *Arab:*
 نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ بِمَا أَوْحَيْنَا إِلَيْكَ هَٰذَا الْقُرْآنَ وَإِن كُنتَ مِن قَبْلِهِ لَمِنَ الْغَافِلِينَ
 
-*Latin:* Naḥnu naquṣṣu 'alaika aḥsanal-qaṣaṣi bimā auḥainā ilaika hāżal-qur'āna wa in kunta min qablihī laminal-gāfilīn
-
 *Artinya:* "Kami menceritakan kepadamu (Nabi Muhammad) kisah yang paling baik (ahsanul qashash) dengan mewahyukan Al-Qur'an ini kepadamu. Sesungguhnya engkau sebelum itu termasuk orang-orang yang tidak mengetahui."
 
-Allah secara khusus menyebut kisah Nabi Yusuf sebagai *Ahsanul Qashash* (أحسن القصص) — sebaik-baik kisah. Predikat ini disematkan langsung dalam QS Yusuf ayat 3, menunjukkan bahwa di antara seluruh kisah dalam Al-Qur'an, kisah Nabi Yusuf mengandung pelajaran yang paling lengkap dan komprehensif. Setidaknya terdapat lima dimensi pelajaran utama yang terkandung di dalamnya:
-
-1. **Manajemen Krisis:** Kisah ini mengajarkan bagaimana mengidentifikasi ancaman sebelum terjadi, merencanakan mitigasi jangka panjang, dan menjalankan strategi secara disiplin. Nabi Yusuf mampu membaca tanda-tanda krisis 14 tahun sebelum datangnya masa paceklik.
-
-2. **Ketahanan Pangan:** Inti dari kisah ini adalah sistem manajemen pangan yang brilian — mulai dari produksi massal, penyimpanan strategis, efisiensi konsumsi, hingga distribusi yang adil. Tidak ada kisah lain dalam Al-Qur'an yang memberikan detail teknis manajemen pangan sedetail ini.
-
-3. **Integritas:** Sepanjang perjalanan hidupnya — dari godaan di istana Al-Aziz hingga memangku amanah sebagai bendahara negara — Nabi Yusuf menunjukkan integritas yang tak tergoyahkan. Ini mengajarkan bahwa keberhasilan manajemen pangan tidak bisa dipisahkan dari moralitas dan amanah para pengelolanya.
-
-4. **Prioritas (*Awlawiyyat*):** Setiap langkah Nabi Yusuf merefleksikan kemampuan menetapkan prioritas. Beliau tidak mencampuradukkan urusan, melainkan mengurutkannya berdasarkan urgensi dan dampak. Inilah inti dari *Fiqh al-Awlawiyyat* yang menjadi kerangka analisis utama artikel ini.
-
-5. **Kepemimpinan:** Nabi Yusuf memimpin dari bawah ke atas — dari seorang tahanan hingga menjadi penguasa ekonomi Mesir. Kepemimpinannya yang visioner, amanah, dan berorientasi pada kemaslahatan rakyat menjadi teladan bagi para pemimpin di bidang pangan dan ekonomi.
-
-Kelima dimensi ini menjadikan kisah Nabi Yusuf bukan sekadar narasi sejarah, melainkan panduan praktis (*operational framework*) yang relevan untuk diterapkan dalam kebijakan ketahanan pangan nasional saat ini.
+Kisah Nabi Yusuf disebut *Ahsanul Qashash* — sebaik-baik kisah. Setidaknya terdapat lima dimensi pelajaran di dalamnya: manajemen krisis, ketahanan pangan, integritas, prioritas (*awlawiyyat*), dan kepemimpinan. Kelima dimensi ini menjadikan kisah Nabi Yusuf sebagai panduan praktis yang relevan untuk diterapkan dalam kebijakan ketahanan pangan nasional.
 
 ### Kisah Nabi Yusuf dan Strategi Pangan Tujuh Tahun
 
-Ayat utama yang menjadi landasan kajian ini adalah firman Allah dalam Surat Yusuf ayat 46 hingga 48. Berikut adalah teks Arab, Latin, dan terjemahannya:
+Ayat utama yang menjadi landasan kajian ini adalah QS Yusuf ayat 46 hingga 48:
 
 **QS Yusuf [12]:46**
 
 *Arab:*
 يُوسُفُ أَيُّهَا الصِّدِّيقُ أَفْتِنَا فِي سَبْعِ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنْبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ لَعَلِّي أَرْجِعُ إِلَى النَّاسِ لَعَلَّهُمْ يَعْلَمُونَ
-
-*Latin:* Yūsufu ayyuhaṣ-ṣiddīqu aftinā fī sab'i baqarātin simāniy ya'kuluhunna sab'un 'ijāfun wa sab'i sunbulātin khuḍriw wa ukhara yābisātin la'allī arji'u ilan-nāsi la'allahum ya'lamūn
 
 *Artinya:* "(Setelah menerima penjelasan itu, utusan itu kembali menghadap Yusuf seraya berkata,) 'Yusuf, wahai orang yang sangat dipercaya, berilah kami penjelasan tentang (takwil mimpi mengenai) tujuh ekor sapi gemuk yang dimakan oleh tujuh ekor sapi kurus, dan tujuh tangkai (gandum) yang hijau serta (tujuh tangkai) lainnya yang kering, agar aku kembali kepada orang-orang itu, semoga mereka mengetahui (takwil mimpi itu).'"
 
@@ -63,8 +41,6 @@ Ayat utama yang menjadi landasan kajian ini adalah firman Allah dalam Surat Yusu
 *Arab:*
 قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدتُّمْ فَذَرُوهُ فِي سُنْبُلِهِ إِلَّا قَلِيلًا مِمَّا تَأْكُلُونَ
 
-*Latin:* Qāla tazra'ūna sab'a sinīna da'abā, famā ḥaṣattum fażarūhu fī sunbulihī illā qalīlam mimmā ta'kulūn
-
 *Artinya:* "Dia (Yusuf) berkata, 'Agar kamu bercocok tanam sungguh-sungguh selama tujuh tahun (berturut-turut). Kemudian, apa yang kamu panen, biarkanlah di tangkainya (jangan kamu petik) kecuali sedikit untuk kamu makan.'"
 
 **QS Yusuf [12]:48**
@@ -72,88 +48,25 @@ Ayat utama yang menjadi landasan kajian ini adalah firman Allah dalam Surat Yusu
 *Arab:*
 ثُمَّ يَأْتِي مِن بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًا مِّمَا تُحْصِنُونَ
 
-*Latin:* Ṡumma ya'tī mim ba'di żālika sab'un syidādun ya'kulna mā qaddamtum lahunna illā qalīlan mimmā tuḥṣinūn
-
 *Artinya:* "Kemudian, setelah itu akan datang tujuh (tahun) yang sangat sulit (paceklik), yang menghabiskan apa yang kamu simpan untuk menghadapinya, kecuali sedikit dari apa yang kamu (sengaja) simpan (untuk bibit)."
 
-### Tafsir Ibn Katsir: Empat Langkah Strategis
+### Empat Langkah Strategis
 
-Ibnu Katsir dalam tafsirnya memberikan penjelasan mendalam tentang kebijakan yang diambil oleh Nabi Yusuf. Setidaknya terdapat empat langkah strategis yang dapat diidentifikasi:
+Ibnu Katsir dan M. Quraish Shihab mengidentifikasi empat langkah strategis Nabi Yusuf:
 
-**Pertama, produksi massal.** Nabi Yusuf memerintahkan untuk bercocok tanam secara sungguh-sungguh (*tazra'ūna sab'a sinīna da'abā*) selama tujuh tahun masa subur. Kata *da'abā* mengandung arti kesungguhan, kontinuitas, dan kerja keras tanpa henti. Ini menunjukkan bahwa produksi pangan harus dilakukan secara masif dan terencana, bukan sekadar kegiatan musiman yang sporadis.
+**Pertama, produksi massal.** Perintah bercocok tanam sungguh-sungguh (*tazra'ūna sab'a sinīna da'abā*). Kata *da'abā* mengandung arti kesungguhan, kontinuitas, dan kerja keras tanpa henti. Produksi pangan harus dilakukan secara masif dan terencana.
 
-**Kedua, penyimpanan yang tepat.** Perintah untuk membiarkan hasil panen pada tangkainya (*fażarūhu fī sunbulihī*) menunjukkan adanya teknologi penyimpanan yang cerdas. Menyimpan gandum dalam kondisi masih bertangkai melindungi biji dari hama, kelembaban, dan pembusukan. Ini adalah strategi penyimpanan jangka panjang yang efisien.
+**Kedua, penyimpanan yang tepat.** Perintah membiarkan hasil panen pada tangkainya (*fażarūhu fī sunbulihī*) melindungi biji dari hama, kelembaban, dan pembusukan — strategi penyimpanan jangka panjang yang efisien.
 
-**Ketiga, efisiensi konsumsi.** Nabi Yusuf hanya mengizinkan konsumsi sedikit dari hasil panen (*illā qalīlan mimmā ta'kulūn*) selama masa subur. Ini mengajarkan prinsip pengendalian konsumsi, hidup sederhana, dan tidak berlebih-lebihan meskipun dalam kondisi berkelimpahan.
+**Ketiga, efisiensi konsumsi.** Hanya mengizinkan konsumsi sedikit dari hasil panen (*illā qalīlan mimmā ta'kulūn*). Ini mengajarkan pengendalian konsumsi dan tidak berlebih-lebihan meskipun dalam kondisi berkelimpahan.
 
-**Keempat, distribusi terencana.** Pada masa paceklik, cadangan pangan yang telah disimpan didistribusikan secara terkendali untuk memastikan ketersediaan pangan bagi seluruh rakyat Mesir. Sistem distribusi ini memerlukan administrasi yang kuat dan data yang akurat.
+**Keempat, distribusi terencana.** Cadangan pangan didistribusikan secara terkendali pada masa paceklik, memerlukan administrasi yang kuat dan data yang akurat.
 
-### Tafsir Quraish Shihab: Tadbir, Ihtiyath, dan Awlawiyyat
-
-M. Quraish Shihab dalam Tafsir Al-Mishbah memberikan perspektif yang tidak kalah penting. Beliau menekankan tiga konsep kunci dalam strategi Nabi Yusuf:
-
-*Tadbir* (manajemen) tercermin dalam perencanaan jangka panjang yang matang. Nabi Yusuf tidak hanya memikirkan kepentingan sesaat, melainkan memproyeksikan kebutuhan hingga 14 tahun ke depan. Ini adalah contoh *long-term planning* yang sangat maju untuk zamannya.
-
-*Ihtiyath* (kehati-hatian) terlihat dari cara penyimpanan cadangan pangan. Nabi Yusuf tidak hanya menyimpan, tetapi menyimpan dengan cara yang aman dan tahan lama. Beliau juga menyisihkan bibit untuk penanaman di masa depan (*illā qalīlan mimmā tuḥṣinūn*), menunjukkan adanya pemikiran tentang keberlanjutan.
-
-*Awlawiyyat* (prioritas) menjadi kerangka berpikir yang mendasari seluruh kebijakan. Nabi Yusuf menetapkan skala prioritas yang jelas: produksi pangan pokok terlebih dahulu, kemudian penyimpanan, lalu efisiensi konsumsi, dan akhirnya distribusi. Tidak semua hal dikerjakan secara bersamaan, melainkan diurutkan berdasarkan tingkat urgensi dan dampaknya.
+Quraish Shihab menambahkan tiga konsep kunci: *tadbir* (manajemen jangka panjang), *ihtiyath* (kehati-hatian dalam penyimpanan dan keberlanjutan), serta *awlawiyyat* (prioritas yang jelas dalam menetapkan skala urgensitas kebijakan).
 
 ### Fiqh al-Awlawiyyat dan Maqashid Syariah
 
-*Fiqh al-Awlawiyyat* atau fikih prioritas adalah cabang dalam ushul fikih yang membahas tentang cara menentukan prioritas di antara berbagai kewajiban, larangan, atau kemaslahatan yang saling bersaing. Konsep ini diperkenalkan secara sistematis oleh Yusuf al-Qaradawi dalam kitabnya *Fiqh al-Awlawiyyat: Dirasah Jadidah fi Dhau'i al-Qur'an wa as-Sunnah*.
-
-Dalam kerangka *Maqashid Syariah*, ketahanan pangan masuk ke dalam kategori *hifzh al-nafs* (perlindungan jiwa) yang merupakan *daruriyyat* (kebutuhan primer). Tanpa terjaminnya ketersediaan pangan, maka jiwa manusia terancam, dan tanpa jiwa, seluruh tujuan syariat lainnya menjadi tidak bermakna. Oleh karena itu, kebijakan pangan harus mendapatkan prioritas tertinggi dalam skala kebijakan publik.
-
-Al-Qaradawi menegaskan bahwa di antara prinsip *Fiqh al-Awlawiyyat* adalah mendahulukan yang *daruri* (primer) atas yang *hajiy* (sekunder), dan mendahulukan yang *hajiy* atas yang *tahsini* (tersier). Dalam konteks pangan, maka memenuhi kebutuhan pangan pokok lebih utama daripada diversifikasi pangan, dan diversifikasi pangan lebih utama daripada industrialisasi pangan.
-
-### Ayat Pendukung Lainnya
-
-**QS Al-Baqarah [2]:168**
-
-*Arab:*
-يَا أَيُّهَا النَّاسُ كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ
-
-*Latin:* Yā ayyuhan-nāsu kulū mimmā fil-arḍi ḥalālan ṭayyibā, wa lā tattabi'ū khuṭuwātisy-syaiṭān, innahū lakum 'aduwwum mubīn
-
-*Artinya:* "Wahai manusia, makanlah dari (makanan) yang halal dan baik yang terdapat di bumi, dan janganlah kamu mengikuti langkah-langkah setan. Sungguh, setan itu musuh yang nyata bagimu."
-
-Ayat ini menegaskan dua aspek penting: *halal* dan *thayyib*. Dalam konteks ketahanan pangan, *halal* berkaitan dengan aspek legalitas (sumber yang sah, bebas dari riba, dan proses yang sesuai syariat), sedangkan *thayyib* berkaitan dengan aspek kualitas (bergizi, sehat, aman dikonsumsi). Kebijakan pangan nasional harus memenuhi kedua dimensi ini.
-
-Penguatan tentang konsumsi yang proporsional juga ditemukan dalam hadits riwayat Tirmidzi dan Ibnu Majah:
-
-> "مَا مَلَأَ آدَمِيٌّ وِعَاءً شَرًّا مِنْ بَطْنٍ، بِحَسْبِ ابْنِ آدَمَ أُكُلَاتٌ يُقِمْنَ صُلْبَهُ، فَإِنْ كَانَ لَا مَحَالَةَ فَثُلُثٌ لِطَعَامِهِ وَثُلُثٌ لِشَرَابِهِ وَثُلُثٌ لِنَفَسِهِ"
-> 
-> "Tidaklah anak Adam memenuhi bejana yang lebih buruk dari perutnya. Cukuplah bagi anak Adam beberapa suapan yang menegakkan tulang punggungnya. Jika harus (lebih), maka sepertiga untuk makanan, sepertiga untuk minuman, dan sepertiga untuk udara (pernapasan)." (HR. Tirmidzi, no. 2380; Ibnu Majah, no. 3349)
-
-Hadits ini menjadi panduan konsumsi yang proporsional dan relevan dengan strategi efisiensi pangan Nabi Yusuf.
-
-**QS Quraisy [106]:3--4**
-
-*Arab:*
-فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ ﴿٣﴾ الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ
-
-*Latin:* Falya'budū rabba hāżal-bayt. Allażī aṭ'āmahum min jū'in wa āmanahum min khauf
-
-*Artinya:* "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka'bah). Yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
-
-Ayat ini secara eksplisit menghubungkan dua kebutuhan dasar manusia: pangan (*aṭ'āmahum min jū'in*) dan keamanan (*āmanahum min khauf*). Fakta bahwa keduanya disebut dalam satu ayat yang sama menunjukkan bahwa pangan dan keamanan adalah dua sisi mata uang yang tidak terpisahkan. Ketahanan pangan adalah fondasi keamanan nasional. Suatu negara tidak akan pernah benar-benar aman jika rakyatnya masih kelaparan.
-
-**QS Al-An'am [141] tentang Zakat Pertanian**
-
-*Arab:*
-وَهُوَ الَّذِي أَنشَأَ جَنَّاتٍ مَّعْرُوشَاتٍ وَغَيْرَ مَعْرُوشَاتٍ وَالنَّخْلَ وَالزَّرْعَ مُخْتَلِفًا أُكُلُهُ وَالزَّيْتُونَ وَالرُّمَّانَ مُتَشَابِهًا وَغَيْرَ مُتَشَابِهٍ ۚ كُلُوا مِن ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ ۖ وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ
-
-*Latin:* Wa huwallażī ansya'a jannātim ma'rūsyātin wa gaira ma'rūsyātin wan-nakhla waz-zar'a mukhtalifan ukuluhu waz-zaitūna war-rummāna mutasyābihan wa gaira mutasyābih. Kulū min ṡamarihī iżā aṡmara wa ātū ḥaqqahū yawma ḥaṣādih, wa lā tusrifū, innahū lā yuḥibbul-musrifīn
-
-*Artinya:* "Dan Dialah yang menjadikan kebun-kebun yang menjalar dan yang tidak menjalar, pohon kurma, tanaman yang berbeda-beda buahnya, zaitun dan delima yang serupa (bentuknya) dan tidak serupa (rasanya). Makanlah buahnya apabila ia berbuah, dan tunaikanlah haknya (zakatnya) pada hari memetiknya. Dan janganlah kamu berlebih-lebihan. Sesungguhnya Allah tidak menyukai orang yang berlebih-lebihan."
-
-Ayat ini menegaskan kewajiban zakat pertanian pada saat panen (*yawma ḥaṣādih*). Dalam hadits riwayat Bukhari, Rasulullah Shallallahu 'Alaihi Wasallam bersabda:
-
-> "فِيمَا سَقَتِ السَّمَاءُ وَالْعُيُونُ أَوْ كَانَ عَثَرِيًّا الْعُشْرُ، وَمَا سُقِيَ بِالنَّضْحِ فَفِيهِ نِصْفُ الْعُشْرِ"
->
-> "Pada (tanaman) yang diairi oleh air hujan, mata air, atau air sungai (tanpa biaya), zakatnya sepersepuluh (10%). Sedangkan yang diairi dengan biaya (pengairan buatan), zakatnya seperduapuluh (5%)." (HR. Bukhari, no. 1483)
-
-Zakat pertanian dan zakat fitrah merupakan instrumen distribusi pangan yang telah mapan dalam Islam. Jika dikelola dengan baik, potensi zakat ini dapat menjadi sumber dana yang signifikan untuk program ketahanan pangan nasional.
+*Fiqh al-Awlawiyyat* atau fikih prioritas adalah cabang ushul fikih yang membahas cara menentukan prioritas di antara berbagai kewajiban yang saling bersaing. Konsep ini diperkenalkan secara sistematis oleh Yusuf al-Qaradawi. Dalam kerangka *Maqashid Syariah*, ketahanan pangan masuk ke dalam *hifzh al-nafs* (perlindungan jiwa) yang merupakan *daruriyyat* (kebutuhan primer). Prinsip utamanya: mendahulukan yang *daruri* atas yang *hajiy* (sekunder), dan yang *hajiy* atas yang *tahsini* (tersier).
 
 ---
 
@@ -161,146 +74,66 @@ Zakat pertanian dan zakat fitrah merupakan instrumen distribusi pangan yang tela
 
 ### 1. Produksi Dalam Negeri sebagai Prioritas Utama
 
-Langkah pertama yang diajarkan Nabi Yusuf adalah *tazra'ūna sab'a sinīna da'abā* — bercocok tanam dengan sungguh-sungguh selama tujuh tahun. Ini adalah pesan yang sangat jelas: produksi dalam negeri harus menjadi prioritas utama, bukan impor.
+Langkah pertama Nabi Yusuf — *tazra'ūna sab'a sinīna da'abā* — adalah pesan jelas: produksi dalam negeri harus menjadi prioritas utama, bukan impor. Indonesia memiliki lahan pertanian luas dan keanekaragaman hayati tinggi, namun impor beras masih mencapai 3,6 juta ton per tahun. Pemerintahan Presiden Prabowo Subianto telah menempatkan swasembada pangan sebagai prioritas nasional melalui cetak sawah, optimalisasi lahan rawa, dan rehabilitasi irigasi. Dalam kerangka *Fiqh al-Awlawiyyat*, produksi pangan pokok (beras) harus didahulukan daripada komoditas lainnya.
 
-Dalam konteks Indonesia, pesan ini memiliki relevansi yang mendalam. Indonesia memiliki lahan pertanian yang luas dan keanekaragaman hayati yang tinggi. Namun, data menunjukkan bahwa impor beras masih mencapai 3,6 juta ton per tahun. Ini berarti kita belum menjalankan perintah *tazra'ūna* secara optimal.
+### 2. Cadangan Strategis dan Lumbung Pangan
 
-Pemerintahan Presiden Prabowo Subianto telah menempatkan swasembada pangan sebagai salah satu prioritas nasional. Program cetak sawah baru, optimalisasi lahan rawa, dan rehabilitasi jaringan irigasi merupakan langkah strategis yang sejalan dengan spirit *tazra'ūna da'abā*. Namun, keberhasilan program ini memerlukan sinergi antara pemerintah, petani, dan sektor swasta.
+Langkah kedua — *fażarūhu fī sunbulihī* — mengajarkan pentingnya cadangan strategis. Perum Bulog perlu diperkuat kapasitas penyimpanannya. Idealnya, cadangan beras nasional setara dengan 3--6 bulan konsumsi, bukan hanya 1--2 bulan seperti saat ini. Di tingkat desa, revitalisasi lumbung desa merupakan langkah strategis yang sejalan dengan prinsip *ihtiyath* dan tanggung jawab kolektif (*fardhu kifayah*). Program *food estate* perlu dikaji ulang dengan pendekatan hati-hati, mengutamakan intensifikasi lahan yang ada.
 
-Dalam kerangka *Fiqh al-Awlawiyyat*, produksi pangan pokok (terutama beras sebagai makanan pokok mayoritas penduduk) harus didahulukan daripada komoditas pangan lainnya. Diversifikasi pangan tetap penting, tetapi tidak boleh mengorbankan produksi pangan pokok. Ini adalah penerapan prinsip mendahulukan yang *daruri* atas yang *hajiy*.
+### 3. Zakat sebagai Instrumen Distribusi Pangan
 
-### 2. Cadangan Strategis Nasional: Bulog, Food Estate, dan Lumbung Desa
+Zakat fitrah dan zakat pertanian adalah instrumen distribusi pangan yang telah mapan secara syariat. Potensi zakat fitrah mencapai lebih dari Rp10 triliun per tahun. Zakat pertanian — 10 persen untuk tadah hujan, 5 persen untuk irigasi berbayar — dapat menjadi sumber dana berkelanjutan. Kolaborasi BAZNAS, Kementerian Pertanian, dan Bulog perlu diperkuat untuk mengintegrasikan zakat dengan program ketahanan pangan nasional.
 
-Langkah kedua Nabi Yusuf adalah *fażarūhu fī sunbulihī* — menyimpan hasil panen pada tangkainya. Ini adalah sistem cadangan strategis. Indonesia telah memiliki Perum Bulog sebagai lembaga yang bertugas menjaga stabilitas harga dan ketersediaan pangan. Namun, kapasitas penyimpanan dan efektivitas penyerapan gabah petani masih perlu ditingkatkan.
+### 4. Makan Bersama, Keberkahan, dan Adab Islami
 
-Dalam kerangka *Fiqh al-Awlawiyyat*, penyimpanan cadangan pangan adalah bagian dari *ihtiyath* (kehati-hatian) dan *hifzh al-nafs* (perlindungan jiwa). Negara wajib memiliki cadangan pangan yang cukup untuk menghadapi masa krisis, sebagaimana dilakukan oleh Nabi Yusuf. Idealnya, cadangan beras nasional setara dengan kebutuhan konsumsi 3--6 bulan, bukan hanya 1--2 bulan seperti saat ini.
-
-Program *food estate* yang dicanangkan pemerintah di sejumlah daerah perlu dikaji ulang dengan pendekatan yang lebih hati-hati. Alih-alih membuka lahan baru secara masif di kawasan hutan, prioritas seharusnya diberikan pada optimalisasi lahan yang sudah ada melalui intensifikasi, rehabilitasi irigasi, dan penyediaan sarana produksi.
-
-Di tingkat desa, revitalisasi lumbung desa (*lumbung pangan*) merupakan inisiatif yang sangat strategis. Sejarah mencatat bahwa lumbung desa telah menjadi institusi penyangga ketahanan pangan masyarakat sejak zaman kerajaan-kerajaan Nusantara. Dalam perspektif *Fiqh al-Awlawiyyat*, lumbung desa adalah wujud tanggung jawab kolektif (*fardhu kifayah*) dalam menjaga ketersediaan pangan di tingkat komunitas.
-
-### 3. Zakat Fitrah dan Zakat Pertanian sebagai Instrumen Distribusi Pangan
-
-Distribusi pangan yang adil merupakan langkah keempat dalam strategi Nabi Yusuf. Dalam sistem ekonomi Islam, zakat fitrah dan zakat pertanian adalah instrumen distribusi yang telah mapan secara syariat.
-
-Zakat fitrah yang dikeluarkan setiap bulan Ramadhan memiliki potensi yang sangat besar. Dengan jumlah penduduk Muslim Indonesia sekitar 240 juta jiwa, dan nilai zakat fitrah rata-rata Rp45.000 per orang, maka potensi pengumpulan zakat fitrah mencapai lebih dari Rp10 triliun per tahun. Jika dikelola secara profesional, dana ini dapat digunakan untuk program pemberian pangan kepada masyarakat prasejahtera, termasuk untuk program Makan Siang Gratis yang saat ini digalakkan oleh pemerintahan Prabowo.
-
-Zakat pertanian juga memiliki potensi yang signifikan. Dengan prinsip 10 persen untuk lahan tadah hujan dan 5 persen untuk lahan irigasi berbayar, zakat pertanian dapat menjadi sumber dana yang berkelanjutan untuk program ketahanan pangan. Dalam konteks *Fiqh al-Awlawiyyat*, zakat pertanian termasuk dalam kategori ibadah *maliyyah ijtima'iyyah* (ibadah sosial-ekonomi) yang memiliki dampak langsung terhadap kesejahteraan umat.
-
-Pemerintah, melalui Badan Amil Zakat Nasional (BAZNAS), perlu memperkuat kolaborasi dengan Kementerian Pertanian dan Bulog untuk mengintegrasikan pengelolaan zakat pertanian dengan program ketahanan pangan nasional. Sinergi ini akan menciptakan ekosistem distribusi pangan yang berbasis pada nilai-nilai syariat.
-
-### 4. Makan Bersama sebagai Solusi Keberkahan dan Kecukupan Pangan
-
-Di luar kerangka kebijakan makro, terdapat satu dimensi yang sering terlewatkan dalam diskursus ketahanan pangan, yaitu aspek keberkahan (*barakah*). Islam mengajarkan bahwa kecukupan pangan tidak hanya ditentukan oleh kuantitas produksi, tetapi juga oleh keberkahan yang Allah turunkan. Salah satu cara meraih keberkahan tersebut adalah melalui praktik makan bersama yang diajarkan langsung oleh Rasulullah Shallallahu 'Alaihi Wasallam.
-
-**Hadits tentang Makan Bersama**
-
-Dalam sebuah hadits riwayat Abu Dawud (no. 3764) dan Ibnu Majah (no. 3286) yang dinilai shahih, para sahabat mengeluh kepada Rasulullah:
+Islam mengajarkan bahwa kecukupan pangan tidak hanya ditentukan oleh kuantitas, tetapi juga keberkahan (*barakah*). Dalam hadits riwayat Abu Dawud (no. 3764) dan Ibnu Majah (no. 3286), para sahabat mengeluh tidak kenyang. Rasulullah Shallallahu 'Alaihi Wasallam bersabda:
 
 *Arab:*
-يَا رَسُولَ اللَّهِ، إِنَّا نَأْكُلُ وَلَا نَشْبَعُ. قَالَ: فَلَعَلَّكُمْ تَفْتَرِقُونَ؟ قَالُوا: نَعَمْ. قَالَ: فَاجْتَمِعُوا عَلَى طَعَامِكُمْ، وَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهِ، يُبَارَكْ لَكُمْ فِيهِ
+فَاجْتَمِعُوا عَلَى طَعَامِكُمْ، وَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهِ، يُبَارَكْ لَكُمْ فِيهِ
 
-*Artinya:* "Wahai Rasulullah, sesungguhnya kami makan tetapi tidak kenyang." Beliau bertanya: "Apakah kalian makan secara terpisah?" Mereka menjawab: "Ya." Beliau bersabda: "Berkumpullah saat makan kalian, dan sebutlah nama Allah (bismillah) niscaya akan diberkahi untuk kalian."
+*Artinya:* "Berkumpullah saat makan kalian, dan sebutlah nama Allah (bismillah) niscaya akan diberkahi untuk kalian."
 
-Hadits ini mengajarkan bahwa makan bersama bukan sekadar tradisi sosial, melainkan sarana meraih keberkahan yang berdampak langsung pada rasa cukup dan kenyang. Dalam konteks ketahanan pangan, praktik makan bersama dapat menjadi solusi sederhana namun efektif untuk mengatasi persepsi kekurangan pangan.
+Makan bersama bukan sekadar tradisi sosial, melainkan sarana meraih keberkahan yang berdampak langsung pada rasa cukup dan kenyang. Tradisi Nusantara seperti *ngeliwet* (Sunda-Jawa) dan *ngalongok* (pesantren) adalah aktualisasi langsung dari hadits ini.
 
-Sumber: https://hadits.in/abudawud/3764
+Rasulullah juga mengajarkan adab makan: membaca bismillah, makan dengan tangan kanan, dan mengambil dari yang terdekat. Menariknya, adab ini dihormati hingga tingkat pemimpin dunia. Pada Mei 2017, Al Arabiya English memberitakan bahwa Raja Salman mengingatkan Presiden AS Donald Trump dan Istrinya, Melania Trump agar minum menggunakan tangan kanan saat mengunjungi festival budaya di King Abdulaziz Centre for World Culture. Ini adalah bentuk amar ma'ruf nahi mungkar di tingkat pemimpin dunia.
 
-**Teladan Rasulullah: Uswatun Hasanah**
+Sumber: Al Arabiya English, 21 Mei 2017 (https://www.youtube.com/watch?v=7NPcMhjsBVQ, diakses 15 Juni 2026)
 
-Allah berfirman dalam QS Al-Ahzab [33]:21:
+Praktik makan bersama berimplikasi langsung pada ketahanan pangan: mengurangi *food waste* (Indonesia mencapai 13 juta ton per tahun), mengefisienkan program Makan Siang Gratis jika disajikan secara bersama, dan memperkuat ikatan sosial.
 
-*Arab:*
-لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا
+### 5. Skala Prioritas dalam Kebijakan Pangan
 
-*Artinya:* "Sungguh, telah ada pada diri Rasulullah itu suri teladan yang baik bagimu (yaitu) bagi orang yang mengharap (rahmat) Allah dan (kedatangan) hari Kiamat dan yang banyak mengingat Allah."
+Berdasarkan *Fiqh al-Awlawiyyat*:
 
-Ayat ini menegaskan bahwa seluruh perilaku Rasulullah — termasuk adab dan kebiasaan makannya — adalah teladan yang patut diikuti. Maka menerapkan adab makan Nabi bukan sekadar sunnah, melainkan bagian dari upaya komprehensif meraih keberkahan pangan.
+- **Prioritas Pertama (Daruriyyat):** Swasembada pangan pokok (beras, jagung, kedelai). Impor hanya boleh bersifat darurat.
+- **Prioritas Kedua (Hajiyyat):** Diversifikasi pangan lokal (sorgum, sagu, ubi kayu) untuk meningkatkan gizi dan mengurangi ketergantungan pada satu komoditas.
+- **Prioritas Ketiga (Tahsiniyyat):** Industrialisasi pangan dan pengembangan sistem logistik modern.
 
-Sumber tafsir: https://tafsirweb.com/7467-surat-al-ahzab-ayat-21.html
-
-**Adab Makan dari Hadits Shahih**
-
-Rasulullah mengajarkan adab makan yang sangat terperinci, di antaranya:
-
-1. **Membaca bismillah** sebelum makan (HR. Bukhari no. 5376, Muslim no. 2022). Membaca bismillah mengundang keberkahan dan menghalau setan yang ikut makan jika nama Allah tidak disebut.
-2. **Makan dengan tangan kanan**, karena setan makan dengan tangan kiri (HR. Muslim no. 2020). Larangan menggunakan tangan kiri saat makan merupakan bentuk pendidikan adab sekaligus pembeda dengan perilaku setan.
-3. **Makan dari yang terdekat**, tidak mengambil makanan dari sisi lain piring (HR. Bukhari no. 5376, Muslim no. 2022). Adab ini mengajarkan kesabaran, keteraturan, dan tidak rakus.
-
-Implementasi adab-adab ini dalam konteks rumah tangga dan lembaga pendidikan dapat menciptakan budaya konsumsi yang lebih teratur, berkah, dan efisien.
-
-**Budaya Ngeliwet: Tradisi Makan Bersama Nusantara**
-
-Indonesia memiliki kekayaan tradisi makan bersama yang sejalan dengan sunnah Nabi, salah satunya adalah budaya *Ngeliwet* dalam tradisi Sunda dan Jawa. Ngeliwet adalah praktik memasak nasi dalam jumlah besar dan menyantapnya bersama-sama di atas daun pisang, lazim ditemui di pesantren, acara desa, dan perayaan komunal.
-
-Praktik serupa juga dikenal di pesantren dengan istilah *ngalongok* atau makan bersama dari satu wadah. Tradisi ini merepresentasikan aktualisasi langsung dari hadits Nabi tentang makan bersama yang membawa keberkahan. Di beberapa pesantren, praktik ini juga menjadi solusi efisiensi pangan — dengan makan bersama, porsi makanan lebih terkontrol, limbah pangan berkurang, dan ikatan sosial semakin erat.
-
-**Amar Ma'ruf di Tingkat Pemimpin Dunia**
-
-Menariknya, adab makan dalam Islam bukan hanya dikenal di kalangan umat Muslim. Pada Juli 2017, BBC News dan The Independent memberitakan bahwa Raja Salman dan Putra Mahkota Muhammad bin Salman (MBS) dari Arab Saudi mengingatkan Presiden AS Donald Trump dan Menteri Luar Negeri Rex Tillerson agar minum menggunakan tangan kanan saat pertemuan resmi di Riyadh. Ini adalah bentuk amar ma'ruf nahi mungkar yang dilakukan di tingkat pemimpin dunia — sebuah pengingat bahwa adab makan adalah nilai universal yang dihormati lintas budaya.
-
-Sumber: BBC News, 8 Juli 2017; The Independent, 10 Juli 2017
-
-**Implikasi untuk Kebijakan**
-
-Praktik makan bersama memiliki implikasi langsung terhadap ketahanan pangan di tingkat mikro:
-
-* Di lingkungan sekolah, program Makan Siang Gratis akan lebih efektif jika disajikan secara bersama (prasmanan/lesehan) dengan adab Islami, bukan sebagai kotak makanan individu. Ini menumbuhkan kebersamaan dan keberkahan.
-* Di keluarga, membiasakan makan bersama dapat mengurangi pemborosan pangan (*food waste*) yang di Indonesia mencapai 13 juta ton per tahun.
-* Di pesantren dan lembaga pendidikan Islam, tradisi ngalongok/ngeliwet bisa dijadikan model efisiensi pangan yang terintegrasi dengan pendidikan karakter.
-
-Dengan demikian, solusi ketahanan pangan tidak melulu soal teknologi pertanian dan kebijakan makro. Dimensi spiritual dan kultural melalui praktik makan bersama — yang diajarkan oleh Nabi, diwariskan oleh tradisi Nusantara, dan bahkan dihormati oleh pemimpin dunia — adalah bagian tak terpisahkan dari upaya mewujudkan kecukupan pangan yang berkah.
-
-### 5. Skala Prioritas: Pangan Pokok, Diversifikasi, Industrialisasi
-
-Dalam kerangka *Fiqh al-Awlawiyyat*, penentuan skala prioritas adalah kunci dari kebijakan yang efektif. Berikut adalah skala prioritas yang diusulkan untuk ketahanan pangan nasional:
-
-**Prioritas Pertama (Daruriyyat): Pemenuhan Pangan Pokok.** Ini adalah level *hifzh al-nafs* yang merupakan kewajiban paling mendasar. Indonesia harus mencapai swasembada beras, jagung, dan kedelai. Selama kebutuhan pokok belum terpenuhi secara mandiri, impor hanya boleh dilakukan sebagai *darurat* (kondisi terpaksa), bukan sebagai kebiasaan.
-
-**Prioritas Kedua (Hajiyyat): Diversifikasi Pangan.** Setelah kebutuhan pokok terpenuhi, langkah selanjutnya adalah diversifikasi pangan untuk meningkatkan kualitas gizi dan mengurangi ketergantungan pada satu komoditas. Program diversifikasi pangan lokal (sorgum, sagu, ubi kayu, talas) perlu didorong secara bertahap.
-
-**Prioritas Ketiga (Tahsiniyyat): Industrialisasi Pangan.** Pada level ini, pengembangan industri pengolahan pangan, rantai dingin (*cold chain*), dan sistem logistik pangan modern menjadi fokus. Ini meningkatkan nilai tambah dan daya saing produk pangan nasional.
-
-Skala prioritas ini sejalan dengan strategi Nabi Yusuf yang pertama-tama fokus pada produksi pangan pokok, kemudian penyimpanan, dan baru kemudian distribusi dan konsumsi. Tidak semua hal bisa dikerjakan sekaligus; prioritas harus ditetapkan berdasarkan urgensi dan dampak.
-
-### 6. Relevansi dengan Kebijakan Pemerintahan Prabowo
-
-Pemerintahan Presiden Prabowo Subianto telah menempatkan ketahanan pangan sebagai salah satu agenda strategis. Program prioritas seperti swasembada pangan, cetak sawah baru, optimalisasi lahan rawa, dan Makan Siang Gratis untuk 18,7 juta siswa per Juni 2026 dengan anggaran Rp 115 triliun memiliki keselarasan dengan prinsip-prinsip dalam kisah Nabi Yusuf.
-
-Program Makan Siang Gratis, misalnya, dapat dianalogikan dengan sistem distribusi pangan pada masa Nabi Yusuf. Jika dikelola dengan baik, program ini bukan hanya menjadi solusi gizi bagi anak-anak sekolah, tetapi juga dapat menjadi instrumen stabilisasi harga pangan dan penyerapan hasil panen petani. Namun, diperlukan perencanaan yang matang dalam hal sumber bahan baku, logistik, dan anggaran agar program ini tidak justru menjadi beban baru bagi anggaran negara.
-
-Dalam kerangka *Fiqh al-Awlawiyyat*, program Makan Siang Gratis masuk dalam kategori *hifzh al-nafs* (perlindungan jiwa) dan *hifzh al-'aql* (perlindungan akal) karena berkaitan dengan kecukupan gizi anak-anak yang sedang dalam masa pertumbuhan dan perkembangan otak. Oleh karena itu, program ini layak mendapatkan prioritas tinggi, tetapi tetap harus diimbangi dengan upaya peningkatan produksi pangan dalam negeri agar tidak menimbulkan tekanan pada neraca pangan nasional.
+Skala ini sejalan dengan strategi Nabi Yusuf yang fokus pada produksi, penyimpanan, baru kemudian distribusi — tidak semua hal dikerjakan sekaligus.
 
 ---
 
 ## PENUTUP
 
-Kisah Nabi Yusuf bukanlah sekadar cerita masa lalu yang hanya layak dibacakan di majelis taklim. Lebih dari itu, kisah ini mengandung sistem manajemen pangan yang brilian dan sarat dengan nilai-nilai *Fiqh al-Awlawiyyat*. Empat langkah strategis yang diajarkan — produksi massal, penyimpanan tepat, efisiensi konsumsi, dan distribusi terencana — adalah formula yang telah teruji dalam sejarah.
+Kisah Nabi Yusuf bukan sekadar cerita masa lalu. Ia mengandung sistem manajemen pangan yang brilian: produksi massal, penyimpanan tepat, efisiensi konsumsi, dan distribusi terencana. Indonesia sebagai negara mayoritas Muslim memiliki modal sosial berharga — zakat, lumbung desa, gotong royong — namun semua itu memerlukan kemauan politik yang kuat, perencanaan matang, dan pelaksanaan konsisten.
 
-Indonesia sebagai negara yang mayoritas penduduknya Muslim memiliki keunggulan komparatif dalam mengadopsi nilai-nilai ini. Zakat pertanian, zakat fitrah, lumbung desa, dan semangat gotong royong adalah modal sosial yang sangat berharga. Namun, semua modal ini tidak akan berarti tanpa kemauan politik yang kuat, perencanaan yang matang, dan pelaksanaan yang konsisten.
+Dalam kerangka *Maqashid Syariah*, ketahanan pangan adalah *hifzh al-nafs* — perlindungan jiwa — yang merupakan kewajiban, bukan pilihan. Negara tidak boleh lengah. Setiap butir beras yang diimpor ketika negeri ini masih mampu memproduksinya sendiri adalah pengingat bahwa kita belum sepenuhnya menjalankan amanat *tazra'ūna sab'a sinīna da'abā*.
 
-Dalam kerangka *Maqashid Syariah*, ketahanan pangan bukanlah pilihan, melainkan kewajiban. *Hifzh al-nafs* (perlindungan jiwa) adalah salah satu dari lima tujuan pokok syariat. Negara tidak boleh lengah dalam hal ini. Setiap butir beras yang diimpor ketika negeri ini masih mampu memproduksinya sendiri adalah pengingat bahwa kita belum sepenuhnya menjalankan amanat *tazra'ūna sab'a sinīna da'abā*.
-
-Sudah saatnya bangsa ini kembali pada akar nilai-nilai agamanya yang kaya akan solusi. Kisah Nabi Yusuf mengajarkan bahwa krisis pangan bisa diantisipasi, bukan hanya direspons. Dengan *tadbir* (manajemen), *ihtiyath* (kehati-hatian), dan *awlawiyyat* (prioritas), Indonesia dapat mewujudkan ketahanan pangan yang kokoh dan berkelanjutan.
-
-QS Yusuf ayat 46 hingga 48 bukan sekadar bacaan, melainkan pedoman. Sudah saatnya kita menerjemahkan ayat-ayat itu ke dalam kebijakan nyata di bumi pertiwi. Karena pada akhirnya, bangsa yang kuat adalah bangsa yang mampu memberi makan rakyatnya sendiri.
+Dengan *tadbir* (manajemen), *ihtiyath* (kehati-hatian), dan *awlawiyyat* (prioritas), Indonesia dapat mewujudkan ketahanan pangan yang kokoh dan berkelanjutan. QS Yusuf ayat 46 hingga 48 bukan sekadar bacaan, melainkan pedoman. Sudah saatnya kita menerjemahkan ayat-ayat itu ke dalam kebijakan nyata di bumi pertiwi. Karena pada akhirnya, bangsa yang kuat adalah bangsa yang mampu memberi makan rakyatnya sendiri.
 
 ---
 
 **DAFTAR PUSTAKA**
 
-Al-Bukhari, Muhammad bin Ismail. *Shahih al-Bukhari*.
-
-Al-Qaradawi, Yusuf. *Fiqh al-Awlawiyyat: Dirasah Jadidah fi Dhau'i al-Qur'an wa as-Sunnah*. Kairo: Maktabah Wahbah, 1995.
-
 Al-Qur'an al-Karim.
-
-At-Tirmidzi, Muhammad bin Isa. *Sunan at-Tirmidzi*.
-
-Badan Pusat Statistik. *Statistik Indonesia 2025*. Jakarta: BPS RI, 2025. Diakses 15 Juni 2026.
-
+Al-Qaradawi, Yusuf. *Fiqh al-Awlawiyyat: Dirasah Jadidah fi Dhau'i al-Qur'an wa as-Sunnah*. Kairo: Maktabah Wahbah, 1995.
+Badan Pusat Statistik. *Statistik Indonesia 2025*. Jakarta: BPS RI, 2025.
 Ibnu Katsir, Ismail bin Umar. *Tafsir al-Qur'an al-'Azhim*. Kairo: Dar al-Hadits, 2000.
-
-Ibnu Majah, Muhammad bin Yazid. *Sunan Ibnu Majah*.
-
 Shihab, M. Quraish. *Tafsir Al-Mishbah: Pesan, Kesan, dan Keserasian al-Qur'an*. Jakarta: Lentera Hati, 2002.
+Abu Dawud. *Sunan Abu Dawud*.
+Al-Bukhari, Muhammad bin Ismail. *Shahih al-Bukhari*.
+At-Tirmidzi, Muhammad bin Isa. *Sunan at-Tirmidzi*.
+Ibnu Majah, Muhammad bin Yazid. *Sunan Ibnu Majah*.
+Muslim, Abul Husain. *Shahih Muslim*.
+
+Al Arabiya English. "King Salman reminds Trump..." 21 Mei 2017. https://www.youtube.com/watch?v=7NPcMhjsBVQ (diakses 15 Juni 2026).
